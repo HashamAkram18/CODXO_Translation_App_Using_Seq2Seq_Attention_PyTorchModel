@@ -54,13 +54,13 @@ To set up the environment and run the model, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/english-to-urdu-translation.git
+    https://github.com/HashamAkram18/CODXO_Translation_App_Using_Seq2Seq_Attention_PyTorchModel.git
     cd english-to-urdu-translation
     ```
 
 2. Create a virtual environment and activate it:
     ```bash
-    python -m venv venv
+    python -m venv E_to_U
     source venv/bin/activate
     ```
 
@@ -103,8 +103,8 @@ python evaluate.py
 ## Results
 
 The model has achieved the following results on the test set:
-- **BLEU Score**: XX.XX
-- **Accuracy**: XX.XX%
+- **BLEU Score**: COMMING SOON
+- **Accuracy**: >98 (~Overfitting)
 
 The results demonstrate the model's ability to handle diverse and complex translations, making it a valuable tool for both casual and professional use.
 
