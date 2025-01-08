@@ -1,4 +1,4 @@
-# CODXO_Translation_App_Using_Seq2Seq_Attention_PyTorchModel
+# English to Urdu Translation App Using Seq2Seq Attention
 
 ## Overview
 
